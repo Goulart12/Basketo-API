@@ -1,0 +1,13 @@
+{
+    "times": [
+        {
+            "id": 1,
+            "nome": "Atlanta Hawks",
+            "conferencia": "Conferência Leste",
+            "posicao": 8,
+            "resultado": "43/39",
+            "primary-color": "#c8102e",
+            "Secundary-color": "#ffffff"
+        },
+    ]
+}
